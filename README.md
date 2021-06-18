@@ -1,0 +1,2 @@
+# Freezecolor
+Fivem - Freezecolor  [Recommended for ESX] This script adds the /color and /color2 commands for your FiveM server. The resource changes the color of a car that you're sitting inside of. For changing the primary color, use /color and for the secondary use /color2. Only admins or superadmins can use it, but you can change it if you want to. I might make an update, to have a config where you can let everyone use it. If anyone has any problems or questions regarding this resource, feel free to ask. 
